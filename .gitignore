@@ -45,6 +45,7 @@ docs/_build/
 
 # Too large file size
 sample.txt
+result.txt
 
 # Ignore vscode config file
 .vscode
